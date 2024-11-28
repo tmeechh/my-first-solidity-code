@@ -5,6 +5,9 @@
 *.dat
 *.swp
 
+.states
+.deps
+
 # Ignore node_modules directory
 node_modules/
 
